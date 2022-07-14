@@ -1,0 +1,49 @@
+button {
+	padding: 20px 35px;
+	margin-top: 30px;
+	margin-bottom: 80px;
+	border: none;
+	background-color: rgb(115, 38, 160);
+	color: white;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	font-size: 15px;
+	letter-spacing: 1px;
+	width: max-content;
+	display: block;
+	cursor: pointer;
+}
+.container div {
+	padding: 20px;
+	min-height: 100px;
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	margin-top: 20px;
+	line-height: 1.8;
+	border: 1px solid blueviolet;
+	width: 500px;
+}
+.responsive-img {
+	width: 80px;
+	height: 80px;
+	border: 1px solid blueviolet;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+}
+
+.github-user-content ul {
+	list-style: none;
+	padding-left: 0;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-bottom: 40px;
+}
